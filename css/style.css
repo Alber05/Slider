@@ -20,14 +20,13 @@ body{
     width: 100%;
     height: 100%;
     font-size: 1.6rem;
- 
 }
 
 .slider{
     position: absolute;
     width: 100%;
     height: 100%;
-    background-image: url(images/slide4-1024x506-1.jpg);
+    background-image: url(../images/slide4-1024x506-1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
